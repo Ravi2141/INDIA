@@ -1,0 +1,61 @@
+body {
+    background-color: rgba(0, 255, 0);
+    color: blue;
+}
+
+body {
+    background-color: powderblue;
+}
+
+.container {
+    width: 70%;
+    height: 70%;
+    align-items: center;
+}
+
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+} */
+
+h1 {
+    color: rgb(128, 0, 6);
+    text-align: center;
+}
+
+p1 {
+    color: blue;
+    font: size 50px;
+    font-family: italic;
+}
+
+body {
+    background-color: powderblue;
+}
+
+h2 {
+    color: brown;
+}
+
+p2 {
+    color: darkred;
+    font: size 50px;
+    font-family: italic;
+}
+
+body {
+    background-color: powderblue;
+}
+
+h3 {
+    color: rgb(49, 2, 37);
+}
+
+p3 {
+    color: rgb(219, 155, 169);
+    font: size 50px;
+    font-family: italic;
+}
